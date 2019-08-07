@@ -88,4 +88,4 @@ function deleteComment() {
    response.splice(index, 1);
    comments_output.innerHTML = build(response, comments_temp);
 }
-//End
+// End
